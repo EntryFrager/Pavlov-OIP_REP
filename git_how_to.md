@@ -74,7 +74,7 @@ SSH-ключ состоит из двух частей — открытого и
 
 Создание ключа по шагам:
 
-![overflow](Pavlov-OIP_REP/png_for_readme/1.png)
+![overflow](png_for_readme/1.png)
 
 ## Добавляем SSH-ключ в ssh-agent
 
@@ -116,19 +116,19 @@ SSH-ключ состоит из двух частей — открытого и
 
 Перейдите на [страницу для работы с ключами](https://github.com/settings/keys) в вашем профиле на GitHub и нажмите кнопку **New SSH key**.
 
-![overflow](Pavlov-OIP_REP/png_for_readme/2.png)
+![overflow](png_for_readme/2.png)
 
 
 В поле **Title** нужно добавить название нового ключа. Например, если вы используете **Mac**, вы можете назвать ключ **MacBook Air**. А ключ, который вы скопировали на прошлом шаге, вставьте в поле **Key**.
 
-![overflow](Pavlov-OIP_REP/png_for_readme/3.png)
+![overflow](png_for_readme/3.png)
 
 
 ***Не копируйте ключ со скриншота — он уже не работает.***
 
 Теперь нажмите кнопку **Add SSH key** и, если потребуется, введите свой пароль от GitHub, чтобы подтвердить сохранение. Если всё сделано верно, новый ключ появится в списке на странице https://github.com/settings/keys.
 
-![overflow](Pavlov-OIP_REP/png_for_readme/4.png)
+![overflow](png_for_readme/4.png)
 
 Теперь мы можем поработать с проектом в репозитории.
 
